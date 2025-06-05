@@ -3,6 +3,8 @@
 
 This is a powerful web-based tool that lets users interact with the content of PDF documents using natural language. By leveraging **Google Gemini AI** and **vector-based semantic search**, it allows users to ask complex questions about any uploaded PDF and get accurate, context-based answers—instantly.
 
+![Architecture (1)](https://github.com/user-attachments/assets/a32deaab-62e5-4292-a688-a96c10b164bd)
+
 ---
 
 ##  What is This Project?
