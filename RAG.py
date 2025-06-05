@@ -11,7 +11,7 @@ import io  # <--- For in-memory text download
 
 # Load environment variables
 load_dotenv()
-os.environ['GOOGLE_API_KEY']='AIzaSyADB0m6DljZH-GqTyevymT4ax9NhBaQ9RI'
+os.environ['GOOGLE_API_KEY']='Enter YOUR API KEY HERE'
 
 os.environ['GOOGLE_API_KEY'] = os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
